@@ -1,6 +1,6 @@
 # Werewolf Theme 🐺
 
-![Werewolf](https://github.com/JohnnyRei/werewolf-official/blob/main/icon.png)
+![Werewolf](https://github.com/JohnnyRei/werewolf-official/blob/main/assets/icon.jpg)
 
 ## Credits
 
