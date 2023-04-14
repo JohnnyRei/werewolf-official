@@ -3,6 +3,18 @@
   "displayName": "Werewolf Official",
   "description": "Official Werewolf is a dark theme inspired by the Dracula Official theme.",
   "version": "0.0.1",
+  "publisher": "Johnn7",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JohnnyRei/werewolf-official"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "Werewolf",
+    "Werewolf Theme",
+    "Werewolf Offical"
+  ],
   "engines": {
     "vscode": "^1.77.0"
   },
