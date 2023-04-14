@@ -7,6 +7,7 @@
 > Werewolf Original
 >
 ![This is Werewolf Theme](./assets/werewolf.png)
+![This is Werewolf Theme](./assets/werewolf2.png)
 
 ## Credits
 
