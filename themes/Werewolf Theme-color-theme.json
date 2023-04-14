@@ -2052,7 +2052,7 @@
     "editorSuggestWidget.border": "#1a1a1f",
     "editorSuggestWidget.foreground": "#d4d4d4",
     "editorSuggestWidget.highlightForeground": "#f1fa8c",
-    "editorSuggestWidget.selectedBackground": "#9ed8de",
+    "editorSuggestWidget.selectedBackground": "#282a36",
     "editorHoverWidget.foreground": "#ffffff",
     "editorHoverWidget.background": "#1a1a1f",
     "editorHoverWidget.border": "#9ed8de",
