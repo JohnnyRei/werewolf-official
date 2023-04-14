@@ -1,0 +1,21 @@
+{
+  "name": "werewolf-official",
+  "displayName": "Werewolf Official",
+  "description": "Official Werewolf is a dark theme inspired by the Dracula Official theme.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.77.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Werewolf Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Werewolf Theme-color-theme.json"
+      }
+    ]
+  }
+}
