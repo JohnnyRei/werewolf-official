@@ -2,7 +2,7 @@
 
 > A dark theme for [VS code](https://code.visualstudio.com/).
 
-![Werewolf](https://github.com/JohnnyRei/werewolf-official/blob/main/assets/icon.png)
+![Werewolf](./assets/icon.png)
 
 > Werewolf Original
 >
