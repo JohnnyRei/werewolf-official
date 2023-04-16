@@ -1,7 +1,5 @@
 # Werewolf for [Visual Studio Code](http://code.visualstudio.com)
 
-> A dark theme for [VS code](https://code.visualstudio.com/).
-
 ![Werewolf](./assets/icon.png)
 
 > Werewolf Original
