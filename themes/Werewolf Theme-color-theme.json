@@ -1962,15 +1962,9 @@
     "editorCodeLens.foreground": "#bd93f9",
     "editorGroup.border": "#191a1f",
     "diffEditor.insertedTextBackground": "#181a1e",
-<<<<<<< HEAD
     "diffEditor.insertedTextBorder": "#50fa7b91",
     "diffEditor.removedTextBackground": "#181a1e",
     "diffEditor.removedTextBorder": "#ff555595",
-=======
-    "diffEditor.insertedTextBorder": "#50fa7bb7",
-    "diffEditor.removedTextBackground": "#181a1e",
-    "diffEditor.removedTextBorder": "#ff5555b7",
->>>>>>> 437e6432601f6f2bc251785565d8663de64827e0
     "diffEditor.border": "#444444",
     "panel.background": "#191a1f",
     "panel.border": "#191a1f",
