@@ -1,5 +1,7 @@
-<b>Werewolf Official</b>
-</h1>
+<div align="center">
+
+![Werewolf Official](./assets/icon.png)
+
 </div>
 
 > A dark theme for [VS code](https://code.visualstudio.com/).
