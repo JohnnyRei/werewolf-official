@@ -1,11 +1,12 @@
-# Werewolf Theme 🐺
+<div align="center">
+<h1>
+<img src="./assets/icon.png" alt="logo" width="250">
+ 
+<b>Werewolf Official</b>
+</h1>
+</div>
 
 > A dark theme for [VS code](https://code.visualstudio.com/).
-
-![Werewolf](./assets/icon.png)
-
-> Werewolf Original
->
 ![This is Werewolf Theme](./assets/werewolf.png)
 ![This is Werewolf Theme](./assets/werewolf2.png)
 
