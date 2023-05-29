@@ -1,7 +1,3 @@
-<div align="center">
-<h1>
-<img src="./assets/icon.png" alt="logo" width="250">
-
 <b>Werewolf Official</b>
 </h1>
 </div>
