@@ -1,5 +1,3 @@
-git
-
 > A dark theme for [VS code](https://code.visualstudio.com/).
 ![This is Werewolf Theme](./assets/werewolf.png)
 ![This is Werewolf Theme](./assets/werewolf2.png)
