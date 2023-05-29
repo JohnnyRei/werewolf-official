@@ -14,7 +14,8 @@
     "dark theme",
     "Werewolf",
     "Werewolf Theme",
-    "Werewolf Offical"
+    "Werewolf Offical",
+    "Dracula Offical"
   ],
   "engines": {
     "vscode": "^1.72.0"
