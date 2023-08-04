@@ -1899,7 +1899,7 @@
     "menu.separatorBackground": "#bbbbbb",
     "menu.border": "#00000085",
     "button.background": "#50fa7b",
-    "button.foreground": "#ffffff",
+    "button.foreground": "#000000",
     "button.hoverBackground": "#484b3e",
     "button.secondaryForeground": "#ffffff",
     "button.secondaryBackground": "#434343",
