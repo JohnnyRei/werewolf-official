@@ -1,9 +1,13 @@
-# Change Log
+# Changelog
 
-All notable changes to the "werewolf-official" extension will be documented in this file.
+## 1.4.0 (2023-08-04)
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+- Better contrast on buttons ([#1](https://github.com/JohnnyRei/werewolf-official/pull/1), by noxxxxxious).
 
-## [Unreleased]
+## 1.0.0 (2023-04-25)
 
-- Initial release
+- First stable release.
+
+## 0.0.1 (2023-04-14)
+
+- First version.

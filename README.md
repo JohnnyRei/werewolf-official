@@ -2,24 +2,31 @@
 
 ![Werewolf Official](./assets/icon.png)
 
+# Werewolf Official
+
+A dark theme for [VS Code](https://code.visualstudio.com/), based on Dracula.
+
+[![Version](https://vsmarketplacebadges.dev/version-short/Johnn7.werewolf-official.svg)](https://marketplace.visualstudio.com/items?itemName=Johnn7.werewolf-official)
+[![Installs](https://vsmarketplacebadges.dev/installs-short/Johnn7.werewolf-official.svg)](https://marketplace.visualstudio.com/items?itemName=Johnn7.werewolf-official)
+
 </div>
 
-> A dark theme for [VS code](https://code.visualstudio.com/).
-![This is Werewolf Theme](./assets/werewolf.png)
-![This is Werewolf Theme](./assets/werewolf2.png)
+![Werewolf Theme](./assets/werewolf.png)
+![Werewolf Theme](./assets/werewolf2.png)
 
 ## Installation
 
-1. Open the extensions sidebar on Visual Studio Code
-1. Search for Theme
-1. Click Install
-1. Click Reload to reload your editor
-1. Select the Manage Cog (bottom left) > Color Theme ＞ Theme
-1. ⭐⭐⭐⭐⭐ Rate five-stars 🎃
+1. Open the Extensions view in VS Code (`Ctrl+Shift+X`).
+2. Search for **Werewolf Official** and click **Install**.
+3. Open the Command Palette (`Ctrl+Shift+P`), run **Preferences: Color Theme** and pick **Werewolf Theme**.
+
+Or install it straight from the [Marketplace](https://marketplace.visualstudio.com/items?itemName=Johnn7.werewolf-official).
 
 ## Credits
 
-* [Dracula Color Theme](https://draculatheme.com/visual-studio-code) for VS Code.
-* [Freepik](https://www.flaticon.com/br/autores/freepik) for the amazing Icon.
+- [Dracula](https://draculatheme.com/visual-studio-code), the theme this one is based on.
+- [Freepik](https://www.flaticon.com/br/autores/freepik) for the icon.
 
-[MIT License](./LICENSE) © Werewolf Theme
+## License
+
+[MIT](./LICENSE)
